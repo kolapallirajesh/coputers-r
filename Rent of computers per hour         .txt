@@ -1,0 +1,6 @@
+Rent of computers per hour             
+Main frame computr rent      =45       
+Super computer rent         =60                 
+Work sration computer       =50             
+Micoro computer             =90                    
+Personal computer          =20                      
